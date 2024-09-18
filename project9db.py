@@ -26,7 +26,7 @@ coffee_menu = {
             "water": 100,
             "coffee": 18,
             "milk": 100,
-            "milk_foam": 50
+            # "milk_foam": 50
         },
         "cost": 3.0
     },
@@ -35,7 +35,7 @@ coffee_menu = {
             "water": 100,
             "coffee": 18,
             "milk": 150,
-            "chocolate_syrup": 30
+            # "chocolate_syrup": 30
         },
         "cost": 3.5
     },
@@ -43,7 +43,7 @@ coffee_menu = {
         "ingredients": {
             "water": 50,
             "coffee": 18,
-            "milk_foam": 20
+            # "milk_foam": 20
         },
         "cost": 2.5
     }
